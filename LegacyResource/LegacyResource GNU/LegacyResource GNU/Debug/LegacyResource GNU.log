@@ -1,0 +1,2 @@
+﻿  mingw32-make: Circular Resource.res <- Resource.res.o dependency dropped.
+  g++ -m32 -o LegacyResource main.o edit.o startup.o window.o Resource.res.o -lgdi32 -lcomdlg32 -lole32 -luuid -luser32 -mwindows
