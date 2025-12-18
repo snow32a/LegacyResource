@@ -1,5 +1,5 @@
 # LegacyResource
-A PE Resource Viewer, Editor, and decompiler for Windows 95+
+A PE Resource Viewer, Editor, and decompiler for Windows 9x and above
 
 ## Compiling:
-Use mingw for compilation via Make
+Use i686 mingw32 for compilation via make.
